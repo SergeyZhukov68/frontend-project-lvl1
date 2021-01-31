@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "description": "![Actions Status](/workflows/hexlet-check/badge.svg)",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/SergeyZhukov68/frontend-project-lvl1/issues"
   },
-  "homepage": "https://github.com/SergeyZhukov68/frontend-project-lvl1#readme"
+  "homepage": "https://github.com/SergeyZhukov68/frontend-project-lvl1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
