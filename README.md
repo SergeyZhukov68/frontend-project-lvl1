@@ -1,6 +1,12 @@
 ### Hexlet tests and linter status:
 ![Actions Status](/workflows/hexlet-check/badge.svg)
 
+
+# asciinema
+
+[![asciicast](https://asciinema.org/a/zEtR6qeuOpfA24vJZzCqiaLxO.svg)](https://asciinema.org/a/zEtR6qeuOpfA24vJZzCqiaLxO)
+
+
 # nodejs-package 
 
 [![Super-Linter](https://github.com/SergeyZhukov68/frontend-project-lvl1/workflows/Super-Linter/badge.svg)](https://github.com/SergeyZhukov68/frontend-project-lvl1/actions)
