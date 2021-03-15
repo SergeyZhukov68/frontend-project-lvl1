@@ -1,7 +1,9 @@
 #!/usr/bin/env node
 
-import greetingPlayer from '../src/cli.js';
+import { queryNameUser } from '../src/index.js';
 
 console.log('Welcome to the Brain Games!');
 
-greetingPlayer();
+const name = queryNameUser();
+
+console.log(`Hello, ${name}!`);
