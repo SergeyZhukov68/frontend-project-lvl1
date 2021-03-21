@@ -6,6 +6,9 @@
 
 [![asciicast](https://asciinema.org/a/zEtR6qeuOpfA24vJZzCqiaLxO.svg)](https://asciinema.org/a/zEtR6qeuOpfA24vJZzCqiaLxO)
 
+# brain-gcd
+
+[![asciicast](https://asciinema.org/a/1vzQF826w4RDaH2sXpR726Tat.svg)](https://asciinema.org/a/1vzQF826w4RDaH2sXpR726Tat)
 
 # nodejs-package 
 

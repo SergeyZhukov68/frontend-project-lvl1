@@ -4,4 +4,8 @@ import questionUserEven from './even.js';
 
 import questionUserCalc from './calc.js';
 
-export { queryNameUser, questionUserEven, questionUserCalc };
+import questionUserGcd from './gcd.js';
+
+export {
+  queryNameUser, questionUserEven, questionUserCalc, questionUserGcd,
+};
