@@ -5,7 +5,7 @@
 
 # brain-games
 
-[![asciicast](https://asciinema.org/a/ITJfsxlc8zOkLiVPZL46ZFjgu.svg)](https://asciinema.org/a/ITJfsxlc8zOkLiVPZL46ZFjgu)
+[![asciicast](https://asciinema.org/a/ry6WZb9KpB2sIWMG734uATfai.svg)](https://asciinema.org/a/ry6WZb9KpB2sIWMG734uATfai)
 
 # nodejs-package 
 
