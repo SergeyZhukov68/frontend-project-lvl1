@@ -31,7 +31,7 @@ const questionUserGcd = (name) => {
       }
     } else {
       console.log(`'${answerUser}' is wrong answer ;(. Correct answer was '${correctAnswer}'.\nLet's try again, ${name}!`);
-	    
+
       return;
     }
     i += 1;
