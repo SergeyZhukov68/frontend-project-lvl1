@@ -16,7 +16,7 @@ const questionUserEven = (name) => {
         console.log(`Congratulations, ${name}!`);
       }
     } else {
-      console.log(`'${answer}' is wrong answer ;(. Correct answer was '${checkNumberEven(number)}'.\nLet's try again, ${name}`);
+      console.log(`'${answer}' is wrong answer ;(. Correct answer was '${checkNumberEven(number)}'.\nLet's try again, ${name}!`);
       return;
     }
     i += 1;

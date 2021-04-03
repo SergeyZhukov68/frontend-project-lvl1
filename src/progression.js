@@ -42,7 +42,7 @@ const questionUserProgression = (name) => {
         console.log(`Congratulations, ${name}!`);
       }
     } else {
-      console.log(`Question: ${progression}\n Your answer: ${answerUser}\n'${answerUser}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`);
+      console.log(`${answerUser}' is wrong answer ;(. Correct answer was '${correctAnswer}'.\nLet's try again, ${name}!`);
       return;
     }
     i += 1;

@@ -26,7 +26,7 @@ const questionUserPrime = (name) => {
         console.log(`Congratulations, ${name}!`);
       }
     } else {
-      console.log(`'${answerUser}' is wrong answer ;(. Correct answer was '${isPrime(randomValue)}'.\nLet's try again, ${name}`);
+      console.log(`'${answerUser}' is wrong answer ;(. Correct answer was '${isPrime(randomValue)}'.\nLet's try again, ${name}!`);
       return;
     }
     i += 1;

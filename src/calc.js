@@ -43,7 +43,7 @@ const questionUserCalc = (name) => {
         console.log(`Congratulations, ${name}!`);
       }
     } else {
-      console.log(`'${answer}' is wrong answer ;(. Correct answer was '${expression[1]}'.\nLet's try again, ${name}`);
+      console.log(`'${answer}' is wrong answer ;(. Correct answer was '${expression[1]}'.\nLet's try again, ${name}!`);
       return;
     }
     i += 1;
